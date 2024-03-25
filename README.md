@@ -36,10 +36,8 @@
   <a href="https://github.com/ludvikcruz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a></p>
   
   <a><h3><i>Favorite operating systems</i></h3></a>
-  <a href="https://linuxmint.com/" target="_blank"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" target="_blank"></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
-  <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" target="_blank"></a>
-  <a href="[https://www.kali.org/](https://zorin.com/os/)" target="_blank"><img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" target="_blank"></a>
+    <a href="https://www.microsoft.com/pt-pt/" target="_blank"><img src="https://img.shields.io/badge/Windows%20OS-0CC1F3?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
+    <a href="[https://www.kali.org/](https://zorin.com/os/)" target="_blank"><img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white" target="_blank"></a>
 </div>
 
 <!--
