@@ -1,5 +1,5 @@
-<h1 align="left">Hi! I'm a web development full stack student <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
-<p>I like web development in react and interest in mobile development with react-native.</p>
+<h1 align="left">Hello! I'm Lucas, an enthusiastic Frontend Developer <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
+<p>I'm an enthusiastic Frontend Developer with a solid foundation in HTML, CSS, and JavaScript, acquired through a two-year degree in Technologies and Programming of Information Systems. Although I have not yet had formal work experience in the field, I completed a curricular internship as a QA Specialist, where I developed a keen eye for detail and a strong understanding of software quality assurance principles using Katalon and Appium. I also have some knowledge in Cypress.io. This experience has enriched my approach to frontend development, ensuring not only aesthetically pleasing but also functionally robust user interfaces. One of the projects I am most proud of is my band's official website (VoidWomb). I have a passion for interface design and user experience, and I'm always on the lookout for new technologies and methodologies to enhance my skills, like React and agile development. I am eager to contribute to a team that values innovation, quality, and continuous development, where I can learn, grow, and eventually lead projects that make a difference.</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ludvikcruz&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&hide_rank=true" alt="Status Henry" /> 
@@ -8,7 +8,7 @@
 
 ##
 
-<h3>Code Editor's</h3>
+<h3>Code Editors</h3>
 
 <div style="display: inline_block">
   <img align="center" alt="Lucas-vscode" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -29,13 +29,13 @@
 </div>
  
 <div> 
-  <a><h3><i>Social Netwoks</i></h3></a>
+  <a><h3><i>Social Networks</i></h3></a>
   <p><a href="https://www.instagram.com/lucascruzdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/lucascruzdeveloper" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-cruz-315231194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/ludvikcruz" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a></p>
   
-  <a><h3><i>Favorite operating sistems</i></h3></a>
+  <a><h3><i>Favorite operating systems</i></h3></a>
   <a href="https://linuxmint.com/" target="_blank"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" target="_blank"></a>
   <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target="_blank"></a>
   <a href="https://www.kali.org/" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" target="_blank"></a>
